@@ -29,7 +29,7 @@ My Main Page                         {#mainpage}
 - README.md
 - Makefile
 
-##How to use the makefile
+## How to use the makefile
 
 To generate the executable :
 
@@ -56,10 +56,10 @@ to clean the directory from :
   	make distclean
 
 
-##Running the different mains
+## Running the different mains
 
 
 
-##How to generate Documentation
+## How to generate Documentation
 
   		doxygen ./doc/Doxyfile
